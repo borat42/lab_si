@@ -1,0 +1,11 @@
+commit 86277600e2079eae5059df1d63f6e97078d92016
+Author: Petar Kuzmanoski <borat42@live.com>
+Date:   Thu Apr 4 07:09:14 2019 +0200
+
+    modify l1.txt
+
+commit a42ff9b3af041cef5af89e5d9eebb67698a5f8ed
+Author: Petar Kuzmanoski <borat42@live.com>
+Date:   Thu Apr 4 06:59:11 2019 +0200
+
+    Initial commit
